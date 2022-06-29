@@ -16,3 +16,12 @@ git config --global user.email ваша_почта@example.com
 ![тут шпаргалка](https://system-admins.ru/wp-content/uploads/2017/01/0001.jpg)
 
 * [полутора часовой курс обьясняющий основную работу с GIT](https://vk.com/away.php?to=https%3A%2F%2Fyoutu.be%2F3HJoXpC9vAM&cc_key=)
+
+# Работа с ветками 
+## Основные команды для работы с ветками 
+    git branch - посмотреть все ветки
+    git branche -d name удалить ветку 
+    git branche -D name принудительно удалить ветку
+    git checkout name - переключится на другую ветку
+    git checkout -b name - создать новую ветку
+    git merge name - слить ветки 
