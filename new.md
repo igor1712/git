@@ -17,3 +17,4 @@ git config --global user.email ваша_почта@example.com
 
 * [полутора часовой курс обьясняющий основную работу с GIT](https://vk.com/away.php?to=https%3A%2F%2Fyoutu.be%2F3HJoXpC9vAM&cc_key=)
 
+# ТУТ КОНФЛИКТ
