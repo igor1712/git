@@ -16,3 +16,4 @@ git config --global user.email ваша_почта@example.com
 ![тут шпаргалка](https://system-admins.ru/wp-content/uploads/2017/01/0001.jpg)
 
 * [полутора часовой курс обьясняющий основную работу с GIT](https://vk.com/away.php?to=https%3A%2F%2Fyoutu.be%2F3HJoXpC9vAM&cc_key=)
+# создали конфликт
