@@ -24,3 +24,5 @@ git config --global user.email ваша_почта@example.com
 * git checkout -b name - создать новую ветку.
 # СОЗДАЕМ КОНФЛИКТ МЕЖДУ VETKA2 И VETKA3
 * ТЕКСТ VETKA2 
+# СОЗДАЕМ КОНФЛИКТ МЕЖДУ VETKA2 И VETKA3 
+* ТУТ ТЕКСТ VETKA3 ДЛЯ КОНФЛИКТА С VETKA2
